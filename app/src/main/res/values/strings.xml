@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CocktailApp</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales aliquet purus, a mattis enim auctor nec. In laoreet porta suscipit. Aliquam pharetra vestibulum euismod. Phasellus rhoncus sem eros, a blandit lectus lobortis blandit. Integer venenatis erat nulla, a gravida metus varius at. Etiam ac est fermentum, ultricies ante ac, eleifend neque. Pellentesque mauris libero, placerat eu sem et, tincidunt pellentesque arcu. Mauris quis arcu fermentum, cursus augue sit amet, fringilla ligula. Sed aliquet elementum velit eget lacinia.</string>
+</resources>
